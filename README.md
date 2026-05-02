@@ -30,8 +30,8 @@ https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
 
 | Platform | Standalone | VST3 Plugin |
 |----------|------------|-------------|
-| **Windows 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) |
-| **Linux 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) |
+| **Windows 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.1.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.1.0) |
+| **Linux 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.1.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.1.0) |
 
 </div>
 
