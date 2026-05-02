@@ -49,6 +49,14 @@ https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
 
 ---
 
+## v1.1.0 Final Result Update
+
+O Resonator v1.1.0 expands the first public release into a more complete three-page research demo. The interface now separates performance, physical motion, and final output into **MAIN**, **COUPLING**, and **OUTPUT** pages. The update adds Motion Coupling for disk and string slip behaviour, a dedicated Output page with Final EQ, Output Guard, recording controls, real-time recording waveform display, corrected dropdown styling, improved layout spacing, and final wiring cleanup across the visible controls and monitoring displays.
+
+The core identity remains unchanged: O Resonator is an input-driven rotating seven-ring resonator for sustained resonance, flywheel motion, and external audio transformation.
+
+---
+
 # O Resonator
 
 **O Resonator** is a JUCE-based rotating string-body instrument and audio processor. It is built around a black circular disk containing **seven internal concentric string rings**. Each ring has an electronic activation path. When a ring is active, its path opens and it contributes to one shared rotating resonant body.
@@ -470,9 +478,13 @@ The modulation cards summarise key movement parameters:
 
 The waveform lanes show input and output activity so the user can see how much signal is entering the system and how much processed sound is leaving it.
 
-### Output section
+### Output page
 
-The output section controls final level, mix, width, delay, space, and master output behaviour.
+The Output page controls final tone, output protection, recording, and monitoring. It includes Final EQ, Output Guard, Record Output, final meters, a DAW-style recording waveform lane, and master status.
+
+### Motion Coupling page
+
+The Motion Coupling page adds a second physical-motion view for disk and string coupling. It includes controls for coupling mode, slip, radius bias, friction, surface texture, Doppler, stereo orbit, phase spread, and centre body field.
 
 ## Main control groups
 
@@ -528,16 +540,21 @@ Controls how energy enters and colours the body:
 
 ### Output
 
-Controls final processing and monitoring:
+Controls final processing, protection, recording, and monitoring:
 
 - Mix
 - Master
 - Width
 - Delay
 - Space
+- Final EQ
+- Output Guard
+- Record Output
 - live IO meter
 - input waveform
 - output waveform
+- final meters
+- recording waveform lane
 
 ## Technical overview
 
@@ -601,4 +618,5 @@ Copyright © Pezhman Farhangi 2026. All rights reserved.
 
 All website content, software content, source code, object code, binaries, plug-ins, standalone applications, audio concepts, sound design logic, interface design, images, official logos, documentation, text, diagrams, product names, design language, music, visual materials, and associated intellectual property are the intellectual property of Pezhman Farhangi and/or I/US Music®, unless expressly stated otherwise in writing.
 
+</div>
 </div>
