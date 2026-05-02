@@ -2,7 +2,7 @@
 
 **Official Website**
 
-https://iusmusic.com/or.html
+https://iusmusic.com/ors.html
 
 **GitHub Release**
 
