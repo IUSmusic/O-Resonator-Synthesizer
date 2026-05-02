@@ -2,7 +2,7 @@
 
 **Official Website**
 
-https://iusmusic.com/resonator.html
+https://iusmusic.com/or.html
 
 # O Resonator
 
