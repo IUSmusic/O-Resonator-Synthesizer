@@ -38,6 +38,7 @@ https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
 ---
 
 <div align="center">
+  
 ![O Resonator Main Interface](./opreview03.png)
 
 ![O Resonator Main Interface](./opreview01.png)
