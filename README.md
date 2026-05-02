@@ -4,6 +4,10 @@
 
 https://iusmusic.com/or.html
 
+**GitHub Release**
+
+https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
+
 # O Resonator
 
 **A rotating seven-ring string body for sustained resonance, flywheel motion, and external audio transformation**  
@@ -26,8 +30,8 @@ https://iusmusic.com/or.html
 
 | Platform | Standalone | VST3 Plugin |
 |----------|------------|-------------|
-| **Windows 64-bit** | Coming soon | Coming soon |
-| **Linux 64-bit** | Coming soon | Coming soon |
+| **Windows 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) |
+| **Linux 64-bit** | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) | [Download from v1.0.0 release](https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0) |
 
 </div>
 
