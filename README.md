@@ -39,10 +39,7 @@ https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
 
 <div align="center">
 
-![O Resonator Mark](./project_20260502_1320474-01.png)
-
-![O Resonator Main Interface](./preview01.png)
-![O Resonator Secondary Interface](./preview02.png)
+![O Resonator Main Interface](./opreview01.png)
 
 </div>
 
