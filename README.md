@@ -53,7 +53,6 @@ https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
 
 O Resonator v1.1.0 expands the first public release into a more complete three-page research demo. The interface now separates performance, physical motion, and final output into **MAIN**, **COUPLING**, and **OUTPUT** pages. The update adds Motion Coupling for disk and string slip behaviour, a dedicated Output page with Final EQ, Output Guard, recording controls, real-time recording waveform display, corrected dropdown styling, improved layout spacing, and final wiring cleanup across the visible controls and monitoring displays.
 
-The core identity remains unchanged: O Resonator is an input-driven rotating seven-ring resonator for sustained resonance, flywheel motion, and external audio transformation.
 
 ---
 
