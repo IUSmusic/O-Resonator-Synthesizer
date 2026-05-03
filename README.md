@@ -6,7 +6,7 @@ https://iusmusic.com/
 
 **GitHub Release**
 
-https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.0.0
+https://github.com/IUSmusic/O-Resonator-Synthesizer/releases/tag/v1.1.0
 
 # O Resonator
 
